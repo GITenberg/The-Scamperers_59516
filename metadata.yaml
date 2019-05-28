@@ -1,11 +1,16 @@
 _repo: The-Scamperers_59516
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59516-h/images/cover.jpg
 creator:
   author:
     agent_name: Stearns, Charles A.
     gutenberg_agent_id: '26736'
     url: http://www.gutenberg.org/2009/agents/26736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59516#The-Scamperers
 gutenberg_issued: '2019-05-15'
 gutenberg_type: Text
 identifiers:
